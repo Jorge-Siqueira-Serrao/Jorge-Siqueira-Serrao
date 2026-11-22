@@ -1,3 +1,11 @@
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=180&section=header&text=Jorge%20Siqueira%20Serr%C3%A3o&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o%20%7C%20IA%20%7C%20Ci%C3%AAncia%20de%20Dados%20%7C%20Ciberseguran%C3%A7a&descSize=16&descAlignY=58" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Cientista+da+Computa%C3%A7%C3%A3o+(UFRR);Pesquisa+em+IA+%26+Aprendizado+Federado;Ci%C3%AAncia+de+Dados+em+Python+%26+R;Ciberseguran%C3%A7a+%26+Full+Stack" alt="Typing SVG" />
+</div>
+
 ### Olá! Eu sou Jorge Siqueira Serrão 👋
 
 **Bacharel em Ciência da Computação (UFRR)** | **Pós-graduado em Computação Aplicada à Indústria 4.0 (Ênfase em IA)**
@@ -11,6 +19,7 @@ Pesquisador e desenvolvedor com atuação em **Inteligência Artificial (Aprendi
 ---
 
 ### Áreas de Atuação & Pesquisa
+
 * **Inteligência Artificial & Aprendizado Federado:** Pesquisa aplicada à visão computacional e classificação de doenças agrícolas utilizando **Flower (`flwr`)**, **TensorFlow** e **MobileNetV2** sob heterogeneidade de dados (Non-IID) e conformidade com a LGPD.
 * **Ciência de Dados & Análise Estatística:** Manipulação de bases complexas, visualização geoespacial (`sf`, `ggplot2`), relatórios dinâmicos (`R Markdown`) e dashboards interativos (`Shiny`) em **R** e **Python**.
 * **Cibersegurança:** Análise de vulnerabilidades, auditoria de senhas, segurança da informação e monitoramento defensivo.
@@ -47,3 +56,5 @@ Pesquisador e desenvolvedor com atuação em **Inteligência Artificial (Aprendi
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+
+---
